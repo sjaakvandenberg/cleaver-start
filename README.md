@@ -133,19 +133,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit aliquam 
 
 ### Code
 
-~~~
-``````ruby
-# comment
-class Dog
-  def initialize(name, color, bark)
-    # code
-  end
-end
+    ```ruby
+    # comment
+    class Dog
+      def initialize(name, color, bark)
+        # code
+      end
+    end
 
-skippy = Dog.new()
-skippy.bark()
-``````
-~~~
+    skippy = Dog.new()
+    skippy.bark()
+    ```
 
 ### A list of things
 
