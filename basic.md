@@ -1,7 +1,7 @@
 title: Presentation Title
-theme: light
+theme: dark
 controls: false
-output: light/index.html
+output: dark/index.html
 
 -- center
 
@@ -22,7 +22,7 @@ By [@svdb](https://twitter.com/svdb).
 
 --
 
-![test](http://placehold.it/1500x500)
+![test](http://placehold.it/1500x150)
 
 | Title       | Description |
 |-------------|-------------|
