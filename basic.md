@@ -22,7 +22,7 @@ By [@svdb](https://twitter.com/svdb).
 
 --
 
-![test](http://placehold.it/1500x150)
+![test](http://placehold.it/1500x250)
 
 | Title       | Description |
 |-------------|-------------|
@@ -32,7 +32,7 @@ By [@svdb](https://twitter.com/svdb).
 --
 
 <div class="left">
-![test](http://placehold.it/1500x800)
+![test](http://placehold.it/1500x750)
 </div>
 <div class="right">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit aliquam aliquam. Nulla ultricies nisi quis leo gravida, lacinia auctor nisl dignissim.
