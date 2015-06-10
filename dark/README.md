@@ -4,6 +4,8 @@
 
 **Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
 
+&mdash; [@svdb](https://www.twitter.com/svdb)
+
 # Usage
 
 The easiest way to use Cleaver Dark is to use the following YAML in your Markdown file: `theme: sjaakvandenberg/cleaver-dark`.
@@ -29,3 +31,4 @@ You can also fork or clone it to create your own version of it.
 * [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) by [Steve Matteson](https://en.wikipedia.org/wiki/Steve_Matteson)
 * [Merriweather](https://www.google.com/fonts/specimen/Merriweather) by [Eben Sorkin](http://sorkintype.com/)
 * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) by [Paul Hunt](https://www.adobe.com/products/type/font-designers/paul-hunt.html)
+* [Cleaver Dark](https://github.com/sjaakvandenberg/cleaver-dark) by [@svdb](https://www.twitter.com/svdb)
