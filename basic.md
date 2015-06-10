@@ -1,6 +1,6 @@
 title: Presentation Title
 theme: dark
-controls: true
+controls: false
 output: basic.html
 
 -- center
@@ -10,15 +10,15 @@ ___Lorem ipsum subtitle dolor sit amet___
 
 --
 
-### A textual example
+### Cleaver Light
 
-![test](http://placehold.it/1500x150/)
+**Cleaver** *Light and Dark* build on [Cleaver Retro](http://github.com/jdan/cleaver-retro), use ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
 
-Be written in **Markdown!** New lines no *longer* need ***two*** angle brackets.
+***
 
-> This will be in a separate paragraph. This will be in a separate paragraph.
+> It's pretty cool.
 
-[Here's a link](http://google.com).
+By [@svdb](https://twitter.com/svdb).
 
 --
 
