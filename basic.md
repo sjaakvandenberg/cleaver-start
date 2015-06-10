@@ -1,7 +1,7 @@
 title: Presentation Title
-theme: dark
+theme: light
 controls: false
-output: basic.html
+output: light/index.html
 
 -- center
 
@@ -10,9 +10,9 @@ ___Lorem ipsum subtitle dolor sit amet___
 
 --
 
-### Cleaver Light
+### Cleaver Dark
 
-**Cleaver** *Light and Dark* build on [Cleaver Retro](http://github.com/jdan/cleaver-retro), use ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
+**Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
 
 ***
 
