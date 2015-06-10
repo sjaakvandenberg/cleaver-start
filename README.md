@@ -134,7 +134,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit aliquam 
 ### Code
 
 ~~~
-```ruby
+``````ruby
 # comment
 class Dog
   def initialize(name, color, bark)
@@ -144,7 +144,7 @@ end
 
 skippy = Dog.new()
 skippy.bark()
-```
+``````
 ~~~
 
 ### A list of things
