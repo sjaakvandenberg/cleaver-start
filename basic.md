@@ -10,9 +10,9 @@ ___Lorem ipsum subtitle dolor sit amet___
 
 --
 
-### Cleaver Dark
+### Cleaver Light
 
-**Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
+**Cleaver** *Light* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Mozilla's Fira Mono for `code`.
 
 ***
 
@@ -54,22 +54,11 @@ More text.
 
 ### Unicode
 
-* ██████████ █████
 * 林花謝了春紅 太匆匆
 * 胭脂淚 留人醉 幾時重
 * Matching Pairs «»‹› “”‘’「」〈〉《》〔〕
 * Greek αβγδ εζηθ ικλμ νξοπ ρςτυ φχψω
-* currency  ¤ $ ¢ € ₠ £ ¥
-
---
-
-```ruby
-class Doge
-  def bark
-    puts "Woof!"
-  end
-end
-```
+* currency ¤ $ ¢ € ₠ £ ¥
 
 --
 
