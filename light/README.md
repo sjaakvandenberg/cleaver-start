@@ -2,6 +2,8 @@
 
 ![Cleaver Light](cleaver-light.png)
 
+*Preview at http://svdb.co/cleaver-light/*
+
 **Cleaver** *Light* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Adobe's Source Code Pro for `code`.
 
 &mdash; [@svdb](https://www.twitter.com/svdb)
@@ -17,7 +19,12 @@ You can also fork or clone it to create your own version of it.
 ## File Structure
 
     . cleaver-light
+    ├── fonts/
+    │   ├── fira/
+    │   ├── merriweather/
+    │   └── opensans/
     ├── cleaver-light.png
+    ├── template.mustache
     ├── layout.mustache
     ├── README.md
     ├── script.js
