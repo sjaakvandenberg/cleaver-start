@@ -24,7 +24,6 @@ You can also fork or clone it to create your own version of it.
     │   ├── merriweather/
     │   └── opensans/
     ├── cleaver-light.png
-    ├── template.mustache
     ├── layout.mustache
     ├── README.md
     ├── script.js
