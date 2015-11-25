@@ -10,9 +10,9 @@ ___Lorem ipsum subtitle dolor sit amet___
 
 --
 
-### Cleaver Light
+### Cleaver Dark
 
-**Cleaver** *Light* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Mozilla's Fira Mono for `code`.
+**Cleaver** *Dark* builds on [Cleaver Retro](http://github.com/jdan/cleaver-retro), uses ***Open Sans*** for the body text, Merriweather for the headings and Mozilla's Fira Mono for `code`.
 
 ***
 
